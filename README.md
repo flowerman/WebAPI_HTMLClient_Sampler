@@ -1,0 +1,2 @@
+# WebAPI_HTMLClient_Sampler
+クライアントにプレーンなHTML、Web API2、バックエンドにEF6を使用したサンプル
